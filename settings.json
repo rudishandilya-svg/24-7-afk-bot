@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "TokenSMP2026-7uoi.aternos.me",
-    "port": 35959,
+    "port":35959,
     "version": "1.20.1",
     "try-creative": false
   },
